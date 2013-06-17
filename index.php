@@ -22,7 +22,7 @@
 		$binu_app->add_style( array('name' => 'body_text', 'color' => '#0000FF') );	
 		
 		$binu_app->add_text("Telecel Helpdesk App",'header');	
-		$binu_app->add_text("",'intro');		
+		////$binu_app->add_text("",'intro');		
 		
 		$binu_app->add_link("home_where/", "Where we are", "intro");
 		$binu_app->add_link("home_contact/", "Contact Us", "intro");
