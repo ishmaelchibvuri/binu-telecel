@@ -1,6 +1,5 @@
 <?php
 	require_once('php_helper_class_library/class.biNu.php');
-	require_once("inc/config.php");
 	
 	// Assign application configuration variables during constructor
 	$app_config = array (
